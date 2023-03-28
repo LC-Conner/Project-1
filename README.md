@@ -4,6 +4,13 @@ Summary Analysis
 
 Our project focused on the number of data jobs before and after the COVID-19 pandemic, how many of those jobs are remote or onsite, the number of people employed in data positions and the average wages of those with data jobs before and after the COVID-19 pandemic. We looked at three resources: Bureau of Labor Statistics, Kaggle and Glassdoor, which provided us with an insight into our research questions. 
 
+For navigation of Jupyter notebook files:
+BLS Data 2018-2021 combined.ipynb
+Cleaned data > PROJECT 1 KAGGLE DATASET1.ipynb
+Glassdoor data analyzed.ipynb
+
+Folder with figures: "Figures"
+
 The Bureau of Labor Statistics data concentrated on the years 2018 to 2021. Within those years, we looked at the number employed per year in data and all occupations, and the average annual wages of those employed in data and all occupations. The data analysis revealed that in data jobs and all occupations, the mean annual wages increased on an upward trend from 2018 to 2021. The r-values of both annual wages graphs (Figures 2 & 4)  were above 0.92, which indicates a strong positive correlation. Contrastingly, the number employed decreased in data analyst positions in 2021, while they were at their peak in 2020. We can infer that the COVID-19 pandemic was the likely cause of the dramatic dip in the number of employed people across the board, especially in the number employed in all occupations since many jobs rely on onsite performances. In data analyst positions, the number employed didn’t significantly decrease in 2020 during the height of the pandemic, likely due to the position being able to be performed remotely. The r-value was 0.12 which was quite low though (Figure 1), so we attribute the scattered trend to the pandemic, as we infer a general trend of negative correlation during the pandemic for the number employed by year in all occupations.
 
 We analysed data from Kaggle for the years 2020 to 2022, which is during and after the pandemic, and it showed that the salaries of those with data jobs has varied since the COVID-19 pandemic. In 2020, bulk of data analysts make $150,000 or less (Kaggle Figure 1) and 2021 saw the highest paid data analysts at almost $600,000 (Kaggle Figure 2). The salaries of those employed in data positions varied greatly in 2022 (Kaggle Figure 3).
